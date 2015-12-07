@@ -1,0 +1,131 @@
+CreateTraining: width:9,height:9,type:RGB
+Input: image:./imgLearn/A1.jpg, identity:WhiteRook
+Input: image:./imgLearn/A2.jpg, identity:WhitePawn
+Input: image:./imgLearn/A3.jpg, identity:Empty
+Input: image:./imgLearn/A4.jpg, identity:Empty
+Input: image:./imgLearn/A5.jpg, identity:Empty
+Input: image:./imgLearn/A6.jpg, identity:Empty
+Input: image:./imgLearn/A7.jpg, identity:BlackPawn
+Input: image:./imgLearn/A8.jpg, identity:BlackRook
+Input: image:./imgLearn/B1.jpg, identity:WhiteKnight
+Input: image:./imgLearn/B2.jpg, identity:WhitePawn
+Input: image:./imgLearn/B3.jpg, identity:Empty
+Input: image:./imgLearn/B4.jpg, identity:Empty
+Input: image:./imgLearn/B5.jpg, identity:Empty
+Input: image:./imgLearn/B6.jpg, identity:Empty
+Input: image:./imgLearn/B7.jpg, identity:BlackPawn
+Input: image:./imgLearn/B8.jpg, identity:BlackKnight
+Input: image:./imgLearn/C1.jpg, identity:WhiteBishop
+Input: image:./imgLearn/C2.jpg, identity:WhitePawn
+Input: image:./imgLearn/C3.jpg, identity:Empty
+Input: image:./imgLearn/C4.jpg, identity:Empty
+Input: image:./imgLearn/C5.jpg, identity:Empty
+Input: image:./imgLearn/C6.jpg, identity:Empty
+Input: image:./imgLearn/C7.jpg, identity:BlackPawn
+Input: image:./imgLearn/C8.jpg, identity:BlackBishop
+Input: image:./imgLearn/D1.jpg, identity:WhiteQueen
+Input: image:./imgLearn/D2.jpg, identity:Empty
+Input: image:./imgLearn/D3.jpg, identity:Empty
+Input: image:./imgLearn/D4.jpg, identity:Empty
+Input: image:./imgLearn/D5.jpg, identity:Empty
+Input: image:./imgLearn/D6.jpg, identity:Empty
+Input: image:./imgLearn/D7.jpg, identity:BlackPawn
+Input: image:./imgLearn/D8.jpg, identity:BlackQueen
+Input: image:./imgLearn/E1.jpg, identity:WhiteKing
+Input: image:./imgLearn/E2.jpg, identity:WhitePawn
+Input: image:./imgLearn/E3.jpg, identity:Empty
+Input: image:./imgLearn/E4.jpg, identity:Empty
+Input: image:./imgLearn/E5.jpg, identity:Empty
+Input: image:./imgLearn/E6.jpg, identity:Empty
+Input: image:./imgLearn/E7.jpg, identity:BlackPawn
+Input: image:./imgLearn/E8.jpg, identity:BlackKing
+Input: image:./imgLearn/F1.jpg, identity:WhiteBishop
+Input: image:./imgLearn/F2.jpg, identity:WhitePawn
+Input: image:./imgLearn/F3.jpg, identity:Empty
+Input: image:./imgLearn/F4.jpg, identity:Empty
+Input: image:./imgLearn/F5.jpg, identity:Empty
+Input: image:./imgLearn/F6.jpg, identity:Empty
+Input: image:./imgLearn/F7.jpg, identity:BlackPawn
+Input: image:./imgLearn/F8.jpg, identity:BlackBishop
+Input: image:./imgLearn/G1.jpg, identity:WhiteKnight
+Input: image:./imgLearn/G2.jpg, identity:WhitePawn
+Input: image:./imgLearn/G3.jpg, identity:Empty
+Input: image:./imgLearn/G4.jpg, identity:Empty
+Input: image:./imgLearn/G5.jpg, identity:Empty
+Input: image:./imgLearn/G6.jpg, identity:Empty
+Input: image:./imgLearn/G7.jpg, identity:BlackPawn
+Input: image:./imgLearn/G8.jpg, identity:BlackKnight
+Input: image:./imgLearn/H1.jpg, identity:WhiteRook
+Input: image:./imgLearn/H2.jpg, identity:WhitePawn
+Input: image:./imgLearn/H3.jpg, identity:Empty
+Input: image:./imgLearn/H4.jpg, identity:Empty
+Input: image:./imgLearn/H5.jpg, identity:Empty
+Input: image:./imgLearn/H6.jpg, identity:Empty
+Input: image:./imgLearn/H7.jpg, identity:BlackPawn
+Input: image:./imgLearn/H8.jpg, identity:BlackRook
+Network: hidden1:67, hidden2:0
+Train: Mode:GUI, Minutes:0, StrategyError:0.25, StrategyCycles:50
+Whatis: image:./imgWhatIs/A1.jpg
+Whatis: image:./imgWhatIs/A2.jpg
+Whatis: image:./imgWhatIs/A3.jpg
+Whatis: image:./imgWhatIs/A4.jpg
+Whatis: image:./imgWhatIs/A5.jpg
+Whatis: image:./imgWhatIs/A6.jpg
+Whatis: image:./imgWhatIs/A7.jpg
+Whatis: image:./imgWhatIs/A8.jpg
+Whatis: image:./imgWhatIs/B1.jpg
+Whatis: image:./imgWhatIs/B2.jpg
+Whatis: image:./imgWhatIs/B3.jpg
+Whatis: image:./imgWhatIs/B4.jpg
+Whatis: image:./imgWhatIs/B5.jpg
+Whatis: image:./imgWhatIs/B6.jpg
+Whatis: image:./imgWhatIs/B7.jpg
+Whatis: image:./imgWhatIs/B8.jpg
+Whatis: image:./imgWhatIs/C1.jpg
+Whatis: image:./imgWhatIs/C2.jpg
+Whatis: image:./imgWhatIs/C3.jpg
+Whatis: image:./imgWhatIs/C4.jpg
+Whatis: image:./imgWhatIs/C5.jpg
+Whatis: image:./imgWhatIs/C6.jpg
+Whatis: image:./imgWhatIs/C7.jpg
+Whatis: image:./imgWhatIs/C8.jpg
+Whatis: image:./imgWhatIs/D1.jpg
+Whatis: image:./imgWhatIs/D2.jpg
+Whatis: image:./imgWhatIs/D3.jpg
+Whatis: image:./imgWhatIs/D4.jpg
+Whatis: image:./imgWhatIs/D5.jpg
+Whatis: image:./imgWhatIs/D6.jpg
+Whatis: image:./imgWhatIs/D7.jpg
+Whatis: image:./imgWhatIs/D8.jpg
+Whatis: image:./imgWhatIs/E1.jpg
+Whatis: image:./imgWhatIs/E2.jpg
+Whatis: image:./imgWhatIs/E3.jpg
+Whatis: image:./imgWhatIs/E4.jpg
+Whatis: image:./imgWhatIs/E5.jpg
+Whatis: image:./imgWhatIs/E6.jpg
+Whatis: image:./imgWhatIs/E7.jpg
+Whatis: image:./imgWhatIs/E8.jpg
+Whatis: image:./imgWhatIs/F1.jpg
+Whatis: image:./imgWhatIs/F2.jpg
+Whatis: image:./imgWhatIs/F3.jpg
+Whatis: image:./imgWhatIs/F4.jpg
+Whatis: image:./imgWhatIs/F5.jpg
+Whatis: image:./imgWhatIs/F6.jpg
+Whatis: image:./imgWhatIs/F7.jpg
+Whatis: image:./imgWhatIs/F8.jpg
+Whatis: image:./imgWhatIs/G1.jpg
+Whatis: image:./imgWhatIs/G2.jpg
+Whatis: image:./imgWhatIs/G3.jpg
+Whatis: image:./imgWhatIs/G4.jpg
+Whatis: image:./imgWhatIs/G5.jpg
+Whatis: image:./imgWhatIs/G6.jpg
+Whatis: image:./imgWhatIs/G7.jpg
+Whatis: image:./imgWhatIs/G8.jpg
+Whatis: image:./imgWhatIs/H1.jpg
+Whatis: image:./imgWhatIs/H2.jpg
+Whatis: image:./imgWhatIs/H3.jpg
+Whatis: image:./imgWhatIs/H4.jpg
+Whatis: image:./imgWhatIs/H5.jpg
+Whatis: image:./imgWhatIs/H6.jpg
+Whatis: image:./imgWhatIs/H7.jpg
+Whatis: image:./imgWhatIs/H8.jpg
